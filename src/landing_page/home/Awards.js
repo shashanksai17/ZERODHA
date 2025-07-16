@@ -1,8 +1,9 @@
 import React from 'react';
+import './Awards.css';
 function Awards() {
     return ( 
-        <div className="container mt-5">
-            <div className="row">
+        <div className="container m-10">
+            <div className="row m-10">
                  <div className="col-6 p-5">
                 <img src='media/images/largestBroker.svg'/>
                </div>

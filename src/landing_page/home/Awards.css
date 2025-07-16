@@ -1,0 +1,12 @@
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  flex-wrap: wrap;
+  margin: 40px 0;
+}
+.col-6 {
+  flex: 1;
+  min-width: 300px;
+}

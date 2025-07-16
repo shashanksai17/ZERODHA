@@ -7,8 +7,8 @@ function Hero() {
                 <h1 className='mt-5 text-center'>
                     Invest in everything
                 </h1>
-                <p>
-Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.
+                <p className='text-center mb-2'>
+      Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.
                 </p>
                 <button className="p-2 btn btn-primary fs-5 mb-5"style={{width:"30%",margin:"0 auto"}}>Sign up for free</button>
 
