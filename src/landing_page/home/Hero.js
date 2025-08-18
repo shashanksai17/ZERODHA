@@ -3,7 +3,7 @@ function Hero() {
     return ( 
        <div class="container p-10 mb-5">
             <div className="row">
-              <img src='media/images/homeHero.png' alt ='Hero Image'/>
+              <img src='media/images/homeHero.png' alt ='Hero'/>
                 <h1 className='mt-5 text-center'>
                     Invest in everything
                 </h1>
